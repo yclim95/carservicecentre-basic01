@@ -1,0 +1,163 @@
+#login {
+	border: 1px solid #c60;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-image:url(../Images/background2.jpg);
+	background-attachment:fixed;	
+}
+
+td
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;	
+}
+
+tr
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;		
+}
+
+#login tr #login {
+	text-align: center;
+}
+a{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;	
+}
+
+#container
+{
+	width:779px;
+	margin:auto;	
+}
+
+
+#header
+{
+	width:777px;
+	height:68px;
+	background-image:url(../Images/header.png);	
+}
+
+#topnavig{
+	height:20px;	
+}
+
+.menu li{
+	float:left;
+	list-style:none;	
+}
+
+#topnavig .menu{
+	float:left;
+	text-transform:uppercase;
+	}
+	
+#topnavig .menu a{
+	text-decoration:none;
+	color:#fde3c8;
+	font-weight:bold;	
+}
+
+#topnavig .menu a:hover{
+	color:#890000;
+	}
+	
+#topnavig .menu li{
+	padding:32px 35px;
+}
+
+#content{
+	float:left;
+	background-color:white;
+	height:auto;
+	-moz-border-top-left-radius:10px;
+	width:776px;	
+}
+
+#leftblock
+{
+	margin-top:5px;
+	margin-left:5px;
+	width:575px;
+	float:left;
+	-moz-border-radius:8px;
+	border:1px solid #f4f3ef;	
+}
+
+#leftblock h3{
+	font-size:18px;
+	text-align:center;
+	padding:20px 10px;	
+}
+
+#rightblock{
+	float:right;
+	width:195px;
+	height:auto;
+	font-size:12px;	
+}
+
+#rightmenu{
+	float:left;
+	text-transform:uppercase;
+	width:195px;	
+}
+
+#rightmenu li{
+	float:left;
+	list-style:none;
+	list-style-image:url(../Images/menulogo.jpg);
+	padding:0px -15px 5px 0px;
+	width:130px;
+	line-height:30px;	
+}
+
+#rightmenu a{
+	text-decoration:none;
+	color:#900;
+	font-weight:bold;
+	font-size:11px;	
+}
+
+#rightmenu a:hover{
+	color:#2D7ED9;	
+}
+
+.entrydata
+{
+	font-family:Jokerman;
+	font-size:15px;
+	color:#300;
+	float:left;
+	margin-right:0;
+	font-weight:bold;
+}
+
+#authordata{
+	float:left;
+	width:50px;
+	height:auto;
+	background-color:red;	
+}
+
+#footer{
+	width:778px;
+	height:80px;
+	background-image:url(../Images/footer.png);
+	float:left;	
+}
+
+.copyright{
+	text-align:center;
+	font-size:9px;
+	margin-top:60px;	
+}
