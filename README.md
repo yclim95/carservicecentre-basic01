@@ -4,9 +4,9 @@ After discussing and analysing the business requirements you have decided to imp
 
 # Main Function 
 1. Car Owners can register themselves online and create an account
-    1. While registering themselves they have to specify at least 1 car as part of registration.
+  1. While registering themselves they have to specify at least 1 car as part of registration.
 2. Car Owners should be able to login to their account after account creation.
-    2. Car Owners can view their existing cars and register more cars under their account
+  2. Car Owners can view their existing cars and register more cars under their account
 3. Car Owners can choose one of their car from the list of cars displayed in their account and Make appointments for servicing their cars
 
 # MINE 
